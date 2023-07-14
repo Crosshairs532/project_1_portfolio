@@ -467,13 +467,13 @@ textarea {
 
     .skill {
         text-align: center;
-        width: 100%;
+        width: 93%;
         height: 100%;
         padding: 10px;
     }
 
     .skill p {
-        width: 90%;
+        width: 100%;
         text-align: justify;
     }
 
