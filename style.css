@@ -354,9 +354,9 @@ textarea {
     display: block;
 }
 
-.hide {
+/* .hide {
     display: none;
-}
+} */
 
 @media screen and (max-width:568px) {
 
