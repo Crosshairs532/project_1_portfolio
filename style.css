@@ -246,7 +246,8 @@ img {
     margin-top: 40px;
     width: 1140px;
     display: flex;
-    justify-content: space-between;
+    gap: 40px;
+    /* justify-content: space-between; */
 
 }
 
@@ -479,5 +480,28 @@ textarea {
         width: 100%;
     }
 
+    .resume {
+        width: 100%;
+        flex-direction: column;
+        justify-content: center;
+    }
 
+    .edu {
+        padding: 10px;
+        height: 100%;
+        width: 93%;
+    }
+
+    .education h2 {
+        font-size: 35px;
+    }
+
+    hr {
+        margin: 0px auto;
+        width: 80%;
+    }
+
+    .ressume {
+        font-size: 30px;
+    }
 }
